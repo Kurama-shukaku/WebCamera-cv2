@@ -1,4 +1,4 @@
-### How display webcam in Tkinter Frame?
+### How to display webcam in Tkinter Frame?
 
 python has bunch of libraries and all are independent can be used different
 purpose while building the particular featured application.
