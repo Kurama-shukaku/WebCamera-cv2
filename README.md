@@ -6,7 +6,7 @@ We using **`OpenCV`** and **`Tkinter`** library.OpenCV is a Python library
 that is used to work with Computer Vision and other artificial, image process,
 Using the OpenCV module, we have to show the webcam in a tkinter window.
 
-Library used for Webcam:
+Library used for WebCam:
 ```
 from cProfile import label
 from tkinter import*
